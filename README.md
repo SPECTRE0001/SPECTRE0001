@@ -1,4 +1,4 @@
-## Hi there I'm Morgan
+## Hi there I'm Morgan Geddes
 
 <h2>Software Development Projects:</h2>
 
